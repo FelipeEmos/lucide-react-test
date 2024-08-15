@@ -20,3 +20,6 @@ bun dev
 
 ## See the Solid counterpart
 https://github.com/FelipeEmos/lucide-solid-test
+
+## Issue on Github
+- https://github.com/lucide-icons/lucide/issues/2371
